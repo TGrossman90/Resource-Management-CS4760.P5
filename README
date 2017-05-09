@@ -1,0 +1,14 @@
+
+Tom Grossman
+CS4760 - Operating Systems
+Project 5 - Resource Management
+05/07/17
+
+
+Usage Commands:
+	Compile:
+		To compile: make
+		To remove: make clean
+	Execution:
+		./oss 
+		
